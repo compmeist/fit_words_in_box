@@ -1,5 +1,5 @@
 # fit_words_in_box
-straightforward quadratic code to fit some text in a box for images or svg
+straightforward code to fit some text in a box (without breaking words) for images or svg
 
 
 	// Javascript
