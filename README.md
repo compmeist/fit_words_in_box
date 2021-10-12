@@ -1,8 +1,8 @@
 # fit_words_in_box
-straightforward code to fit some text in a box (without breaking words) for images or svg
+straightforward code to fit some text in a box (without hyphenation) for images or svg
 
 
-	// Javascript
+	// Javascript (same as the repo .JS file )
 
 		 function fitTextToBox(svg_text_el,x0,y0,xWidth,yWidth,txt,txtHt,txtWd) {
 
