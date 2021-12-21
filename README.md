@@ -1,5 +1,5 @@
 # fit_words_in_box
-straightforward code to fit some text in a box (without hyphenation) for images or svg
+simpleton's code to fit some text in a box (without hyphenation) for images or svg
 
 
 	// Javascript (same as the repo .JS file )
